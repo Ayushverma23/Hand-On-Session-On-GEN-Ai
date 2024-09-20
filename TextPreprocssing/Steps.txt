@@ -1,1 +1,5 @@
-abc
+There are many process in text preprocessing :
+1) Tokenization
+2) Removing Stopwords
+3) Stemming
+4) Lemmatization
