@@ -1,0 +1,1 @@
+We will disucss about embeding in this file as we know we could find simmality of words using cosine simmilarity , embedding etc.
