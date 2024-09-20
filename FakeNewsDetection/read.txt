@@ -1,0 +1,2 @@
+in this file we will learn about building an model using LOGISTIC REGRESSION , LSTM ,RNN to predict the news content
+we will use tensors for forming vectors and training the model in RNN, lSTM
