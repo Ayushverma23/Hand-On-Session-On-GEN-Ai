@@ -1,0 +1,3 @@
+In this file we will learn about building an spam detection that will classify text in ham , spam based on training data
+the training data is in TSV format
+we will apply all the text preprocessing concept in this project and train the model then predict the model
